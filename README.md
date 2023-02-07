@@ -34,7 +34,7 @@ Monte uma apresentação com base em perguntas e análises exploratórias realiz
 *Consulte a documentação do GitHub em* 
 
 ## Link do repositório:
-xxxxx
+https://github.com/jordanlima1/projeto-banco-de-dados
 
 <br>
 
